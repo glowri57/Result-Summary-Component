@@ -14,7 +14,7 @@
 }
 @font-face {
   font-family: "HankenGrotesk";
-  src: url("/results-summary-component-main/assets/fonts/HankenGrotesk-VariableFont_wght.ttf") format("truetype");
+  src: url("./assets/fonts/HankenGrotesk-VariableFont_wght.ttf") format("truetype");
   font-display: swap;
 }
 
